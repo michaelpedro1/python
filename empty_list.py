@@ -1,0 +1,10 @@
+empty_list=[]
+print(empty_list)
+name_list=["michael","john","trinity"]
+print(name_list)
+num_list=[1,2,3,4]
+print(num_list)
+num_list=num_list*3
+print(num_list)
+name_list=name_list[::-1]
+print(name_list)
